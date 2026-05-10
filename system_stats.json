@@ -1,0 +1,100 @@
+[
+  {
+    "timestamp": "2026-05-04 20:51:37.883944",
+    "machine": "DESKTOP-35NO98P",
+    "cpu": {
+      "total": 21.3,
+      "per_core": [
+        13.6,
+        7.8,
+        7.8,
+        3.1
+      ],
+      "cores": 4
+    },
+    "memory": {
+      "total": 11.91,
+      "used": 9.26,
+      "percent": 77.8
+    },
+    "disk": {
+      "PhysicalDrive0": {
+        "read_MB": 84772.23,
+        "write_MB": 10314.81,
+        "read_MB_sec": 0.0,
+        "write_MB_sec": 0.01
+      },
+      "PhysicalDrive1": {
+        "read_MB": 673999.84,
+        "write_MB": 620104.92,
+        "read_MB_sec": 0.0,
+        "write_MB_sec": 0.3
+      }
+    },
+    "network": {
+      "Local Area Connection": {
+        "sent_MB": 0.0,
+        "recv_MB": 0.0,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      },
+      "Local Area Connection* 1": {
+        "sent_MB": 0.0,
+        "recv_MB": 0.0,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      },
+      "Local Area Connection* 2": {
+        "sent_MB": 0.0,
+        "recv_MB": 0.0,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      },
+      "Wi-Fi": {
+        "sent_MB": 92.93,
+        "recv_MB": 2532.43,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      },
+      "Bluetooth Network Connection": {
+        "sent_MB": 0.0,
+        "recv_MB": 0.0,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      },
+      "Loopback Pseudo-Interface 1": {
+        "sent_MB": 0.0,
+        "recv_MB": 0.0,
+        "sent_MB_sec": 0.0,
+        "recv_MB_sec": 0.0
+      }
+    },
+    "top_processes": [
+      {
+        "cpu_percent": 0.0,
+        "pid": 0,
+        "name": "System Idle Process"
+      },
+      {
+        "cpu_percent": 0.0,
+        "pid": 4,
+        "name": "System"
+      },
+      {
+        "cpu_percent": 0.0,
+        "pid": 112,
+        "name": "Registry"
+      },
+      {
+        "cpu_percent": 0.0,
+        "pid": 376,
+        "name": "msedgewebview2.exe"
+      },
+      {
+        "cpu_percent": 0.0,
+        "pid": 512,
+        "name": "smss.exe"
+      }
+    ]
+  }
+]
